@@ -18,9 +18,9 @@ body, html {
 
 ::selection{background:#1abc9c;color:white}
 
-.abcen{position: relative;bottom: 8%;}
+.abcen{position: relative;top: 68%;}
 
-.abcen1{position: relative;top: 30%;}
+.abcen1{position: relative;top: 25%;}
 
 .content-section-c {
 	border-top: 1px solid #32465A;
